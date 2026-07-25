@@ -62,7 +62,8 @@ Git • GitHub • VS Code • Postman • Figma
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ksshravya15
-- LinkedIn: (Add your LinkedIn profile)
+- LinkedIn: www.linkedin.com/in/k-s-shravya-859775365
+
 
 ---
 
