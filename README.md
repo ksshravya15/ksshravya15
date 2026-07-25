@@ -22,8 +22,6 @@ Building technology that solves real-world problems 🚀
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Information+Science+Student;AI+%7C+GIS+%7C+Software+Development;Hackathon+Builder;Always+Learning+Something+New+🚀"/>
 </p>
 
----
-
 <!-- ========================= -->
 <!--      CODING GIF           -->
 <!-- ========================= -->
@@ -124,13 +122,7 @@ Career Goal:
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksshravya15&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksshravya15&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
----
 
 # 🔥 GitHub Streak
 
