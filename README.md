@@ -127,13 +127,9 @@ Career Goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ksshravya15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksshravya15&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksshravya15&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksshravya15&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
