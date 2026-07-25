@@ -19,7 +19,7 @@ Building technology that solves real-world problems 🚀
 <!-- ========================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Information+Science+Student;AI+%7C+GIS+%7C+Software+Development;Hackathon+Builder;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Information+Science+Student;AI+%7C+GIS+%7C+Software+Development;Hackathon+Builder;Always+Learning+Something+New+🚀"/>
 </p>
 
 ---
