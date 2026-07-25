@@ -175,3 +175,111 @@ Career Goal:
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 Flood-Aware Evacuation Routing
+
+A smart routing solution that dynamically recalculates safe evacuation paths using flood data, GIS, and AI.
+
+**Tech Stack**
+- FastAPI
+- Leaflet
+- Python
+- NetworkX
+- OpenStreetMap
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Intrusion Detection System
+
+A machine learning-based system that detects malicious network traffic using the CICIDS2017 dataset.
+
+**Tech Stack**
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Flask
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 DSA Repository
+
+A growing collection of Data Structures and Algorithms solutions with clean, well-documented code.
+
+</td>
+
+<td width="50%">
+
+### ☕ Java Projects
+
+Java applications built while learning OOP concepts, file handling, collections, and problem solving.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📅 2026 Goals
+
+- 🌊 Complete Flood-Aware Evacuation Routing
+- 🏆 Participate in National Hackathons
+- 📚 Solve 300+ DSA Problems
+- 💻 Build High-Quality Full-Stack Projects
+- 🤝 Contribute to Open Source
+- 🌟 Strengthen GitHub Portfolio
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ksshravya15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Replace YOUR_EMAIL@gmail.com with your email -->
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"Technology creates the greatest impact when it solves real-world problems."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you like my projects, don't forget to ⭐ star the repositories.
+
+🚀 Always learning • Always building • Always improving
+
+</div>
